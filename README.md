@@ -64,9 +64,3 @@ python train.py --lambdas 1e-4 1e-3 1e-2 --gate_mode hard_concrete --epochs 50
 | 1e-4 | ~83% | ~15% |
 | 1e-3 | ~80% | ~50% |
 | 1e-2 | ~73% | ~82% |
-
----
-
-## References
-- Louizos et al. (2018) — *L0 Regularization for Neural Networks* (Hard Concrete)
-- Han et al. (2015) — *Learning Weights and Connections*
